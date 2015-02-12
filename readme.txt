@@ -16,6 +16,15 @@ Responsive Featured Image for Sidebar Widgets with CSS3 Animations and Styles
 
 This plugin will make a widget for your sidebars with which you can make responsive, animated and cool images/banners made with CSS3 animations. 
 
+### Demo
+
+[http://codexspot.com/afi-demo/](http://codexspot.com/afi-demo/)
+
+### Features
+* CSS3 Animations
+* Easy to Use
+* Works on all browsers and front-end frameworks like bootstrap and foundation 
+
 == Installation ==
 
 1. Extract `animated-featured-image-widget.zip` to the `/wp-content/plugins/` directory
@@ -38,12 +47,3 @@ No, it is a sidebar widget only. We will update some cool features later.
 
 = 1.0 =
 * First version.
-
-### Demo
-
-[http://codexspot.com/afi-demo/](http://codexspot.com/afi-demo/)
-
-### Features
-* CSS3 Animations
-* Easy to Use
-* Works on all browsers and front-end frameworks like bootstrap and foundation 
