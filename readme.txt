@@ -1,5 +1,5 @@
 ﻿=== Animated Featured Image ===
-Contributors: mobeen-abdullah, talentedaamer
+Contributors: mobeen-abdullah, talentedaamer, kamranmehmood
 Donate link http://wedon'tneeddonations.smile
 Tags: responsive image widget, responsive widget, css3 animations, css3 banner, responsive image, featured image, featured image widget, image banner, featured widget, image, images,  widget, sidebar
 Requires at least: 3.0.1
@@ -19,6 +19,10 @@ This plugin will make a widget for your sidebars with which you can make respons
 ### Demo
 
 [http://codexspot.com/afi-demo/](http://codexspot.com/afi-demo/)
+
+### Brief tutorial with screenshots how to use
+
+[http://codexspot.com/animated-featured-image-free-wordpress-widget-plugin/](http://codexspot.com/animated-featured-image-free-wordpress-widget-plugin/)
 
 ### Features
 * CSS3 Animations
